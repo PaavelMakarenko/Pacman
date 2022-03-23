@@ -24,3 +24,7 @@ Prese these buttons in order to control the pacman
 ## Links 
  
  List of TalTech courses for students [link](https://taltech.ee/en/tehnoloogiakool-kursused)
+
+ ## Authors
+
+Paavel Makarenko
